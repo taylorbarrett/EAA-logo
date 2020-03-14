@@ -8,8 +8,8 @@ Digital logo design for local Experimental Aircraft Association Chapter 648 (Lon
 
 Original vector graphic created in Rhino 6 for Mac. 
 
-<a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49470800398_3181a8514a_c.jpg" width="100%" alt="Commit Aviation"></a>
+Draft 1:
+<a href="https://github.com/taylorbarrett/EAA-logo"><img src="https://github.com/taylorbarrett/EAA-logo/blob/master/EAA_rev2.pdf" width="100%" alt="EAA"></a>
 
-<a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49471292786_3b9a87aa22_k.jpg" width="100%" alt="Commit Aviation"></a>
-
-<a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49471292721_01df88190d_k.jpg" width="100%" alt="Commit Aviation"></a>
+Draft 2:
+<a href="https://github.com/taylorbarrett/EAA-logo"><img src="https://github.com/taylorbarrett/EAA-logo/blob/master/eaa_rev3line.pdf" width="100%" alt="EAA"></a>
